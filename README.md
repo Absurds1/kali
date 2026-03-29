@@ -1,10 +1,10 @@
 # kalii
 
-##1 New machine
+## 1 New machine
 
 ![new machine](images/1code.png)
 
-##2 git del
+## 2 git del
  
 ![delete git](images/2.1code.png)
 
@@ -14,7 +14,7 @@
 
 ![download git](images/2.4code.png)S
 
-##3 comands
+## 3 comands
 
 - touch file1.txt
 - cat file1.txt
@@ -28,13 +28,13 @@
 - rm file1.txt
 - rmdir dir1
 
-##machine break
+## machine break
 
 ![delete xorg](images/4code.png)
 
 ![console](images/4.1code.png)
 
-#password 
+# password 
 <br>
 ![new code](images/5code.png)
 
