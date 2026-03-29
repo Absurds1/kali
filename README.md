@@ -28,13 +28,13 @@
 - rm file1.txt
 - rmdir dir1
 
-## machine break
+## 4 machine break
 
 ![delete xorg](images/4code.png)
 
 ![console](images/4.1code.png)
 
-# password 
+# 5 password 
 <br>
 ![new code](images/5code.png)
 
