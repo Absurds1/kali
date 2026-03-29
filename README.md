@@ -12,7 +12,7 @@
 
 ![git check](images/2.3code.png)
 
-![download git](images/2.4code.png)S
+![download git](images/2.4code.png)
 
 ## 3 comands
 
@@ -35,7 +35,7 @@
 ![console](images/4.1code.png)
 
 # 5 password 
-<br>
+
 ![new code](images/5code.png)
 
 ![no password](images/5.1code.png)
